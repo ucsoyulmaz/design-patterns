@@ -1,5 +1,5 @@
 
-TO CHECK WHICH DESIGN PATTERNS ARE IMPLEMENTED, PLEASE REFER TO "SDA Report.pdf"
+IN ORDER TO CHECK THE IMPLEMENTED DESIGN PATTERNS, PLEASE REFER TO "SDA Report.pdf"
 
 
 ---------------------------------------------------------------------------------
