@@ -7,7 +7,7 @@ Running instructions:
 
 1) Set up Tomcat
 2) Set up PostgreSQL
-3) Execute sql_DB_setup.sql
+3) Execute RecipeBook/sql_DB_setup.sql
 4) Run login.html for starting the application
 ---------------------------------------------------------------------------------
 
